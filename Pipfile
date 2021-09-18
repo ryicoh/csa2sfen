@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+csa2sfen = "python csa2sfen.py"
+
+[packages]
+python-shogi = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
