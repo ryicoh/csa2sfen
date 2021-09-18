@@ -1,0 +1,1 @@
+python-shogi==1.0.14
